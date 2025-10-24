@@ -12,8 +12,8 @@ Jung Hun Oh <sup>1,†,∗</sup>, Wookjin Choi <sup>2,†</sup>, Euiseong Ko <su
 
 Contact: <ohj@mskcc.org> or <mingon.kang@unlv.edu>
 
-![PathCNN](img/pathcnn.png)
-
+![UOTK](img/Data_analysis_pipeline.png)
+![UOTK](img/Unbalanced_OMT.png)
 1. Model Building  
    - PathCNN.py  
 
