@@ -2,11 +2,11 @@
 
 ![UOTK](img/Data_analysis_pipeline.png)
 Radiogenomic data analysis pipeline. Sample clustering was conducted using our proposed network-based k-means method coupled with unbalanced optimal transport on radiomic features to identify sub-groups. Tumor immune cell abundance was then compared between the identified sub-groups.
-
+#
 
 ![UOTK](img/Unbalanced_OMT.png)
 Introduction of unbalanced optimal transport. (A) The cost and transport plan matrices (C ̃ and T ̃) for unbalanced optimal transport and (B) A displacement interpolation on a network between two samples (S1 and S2). Unbalanced optimal transport allows for injection and extraction of mass to and from the network.
-
+#
 
 1. Model Building  
    - PathCNN.py  
